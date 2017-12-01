@@ -31,3 +31,7 @@ print(result6) # pattern matching
 
 result7 = re.findall(r"^\w", emails, flags = re.MULTILINE)
 print(result7) #
+
+""" re.search() -> returns object if matchess else none
+    re.match() : This function attempts to match pattern to whole string. The re.match function returns a match object on success, None on failure. 
+"""
