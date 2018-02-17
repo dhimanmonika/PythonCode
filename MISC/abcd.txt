@@ -1,0 +1,1 @@
+this is simple code to write a text file
