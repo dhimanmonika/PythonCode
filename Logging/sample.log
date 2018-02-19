@@ -1,0 +1,28 @@
+2018-02-19 06:34:47,133:__main__:Add: 10 + 0 = 10
+2018-02-19 06:34:47,133:__main__:Sub: 10 - 0 = 10
+2018-02-19 06:34:47,133:__main__:Mul: 10 * 0 = 0
+2018-02-19 06:34:47,133:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "AdvanceLogging2.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2018-02-19 06:34:47,133:__main__:Div: 10 / 0 = None
+2018-02-19 06:36:01,480:__main__:Add: 10 + 0 = 10
+2018-02-19 06:36:01,480:__main__:Sub: 10 - 0 = 10
+2018-02-19 06:36:01,480:__main__:Mul: 10 * 0 = 0
+2018-02-19 06:36:01,480:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "AdvanceLogging2.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2018-02-19 06:36:01,480:__main__:Div: 10 / 0 = None
+2018-02-19 06:36:48,517:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "AdvanceLogging2.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2018-02-19 06:37:32,952:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "AdvanceLogging2.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
