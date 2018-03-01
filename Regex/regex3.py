@@ -30,4 +30,4 @@ print("\n word ending with e ")
 print(re.findall(r'\w+e\b',example))
 
 print("\n word containing  e excluding start and end of word ")
-print(re.findall(r'\w+i\w+',example))
+print(re.findall(r'\w+e\w+',example))
