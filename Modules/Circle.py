@@ -9,3 +9,5 @@ def circle_area(r):
     return pi*r*r
 
 
+res=circle_area("abd")
+print(res)
