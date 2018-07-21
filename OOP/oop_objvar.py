@@ -1,6 +1,10 @@
-"""Class variables are shared - they can be accessed by all instances of that class. There is only one copy of the class variable and when any one object makes a change to a class variable, that change will be seen by all the other instances.
+"""Class variables are shared - they can be accessed by all instances of that class.
+There is only one copy of the class variable and when any one object makes a change to a class variable,
+ that change will be seen by all the other instances.
 
-Object variables are owned by each individual object/instance of the class. In this case, each object has its own copy of the field i.e. they are not shared and are not related in any way to the field by the same name in a different instance."""
+Object variables are owned by each individual object/instance of the class.
+In this case, each object has its own copy of the field i.e. they are not shared and are not related in any way to the
+field by the same name in a different instance."""
 
 class Robot:
     population=0 # class variable

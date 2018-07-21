@@ -28,3 +28,4 @@ emp_1.raise_amt=1.05
 print("number of employee" ,Employee.num_of_employee)
 print(emp_1.raise_amt)
 print(emp_2.raise_amt)
+print(Employee.raise_amt)
